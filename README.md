@@ -1,6 +1,6 @@
 # Sidefy
 
-[(Pre-)Release Notes](https://github.com/sha2kyou/Sidefy/releases)
+[(Pre-)Release Notes](https://sidefyapp.com/blog/)
 
 ---
 
